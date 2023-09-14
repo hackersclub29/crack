@@ -1,3 +1,4 @@
 example for running this program 
-python crack.py --hash-type md5 --threads 4 --hash-file hash.txt  wordlist.txt ----> if files in same dir
-python password_cracker.py --hash-type md5 --threads 4 --hash-file path/to/your/hash.txt --wordlist-file path/to/your/wordlist.txt -----> path required
+python Crack.py --hash-type md5 --threads 4 --hash-file hash.txt  wordlist.txt ----> if files in same dir
+python Crack.py --hash-type md5 --threads 4 --hash-file path/to/your/hash.txt --wordlist-file path/to/your/wordlist.txt -----> path required
+
